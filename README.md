@@ -29,7 +29,4 @@ A modular command-line Swift project that simulates a music player service. Buil
   - Singleton (for player instance)
   - Observer (simulated via console output)
 
----
-
-## 📁 Project Structure
 
